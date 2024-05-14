@@ -27,13 +27,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\zhuboyong\\mySite2\\sidebars.js"
+          "sidebarPath": "D:\\zhuboyong\\mySiteTwo\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "D:\\zhuboyong\\mySite2\\src\\css\\custom.css"
+          "customCss": "D:\\zhuboyong\\mySiteTwo\\src\\css\\custom.css"
         }
       }
     ]
