@@ -1,0 +1,19 @@
+{
+  "title": "1、运维",
+  "keywords": [
+    "linux",
+    "k8s"
+  ],
+  "slug": "/category/1运维",
+  "permalink": "/zh-Hans/docs/category/1运维",
+  "navigation": {
+    "previous": {
+      "title": "技术笔记",
+      "permalink": "/zh-Hans/docs/knowledge"
+    },
+    "next": {
+      "title": "Linux",
+      "permalink": "/zh-Hans/docs/category/linux"
+    }
+  }
+}

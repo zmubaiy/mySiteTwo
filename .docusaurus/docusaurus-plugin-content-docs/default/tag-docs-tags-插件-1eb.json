@@ -1,0 +1,14 @@
+{
+  "label": "插件",
+  "permalink": "/docs/tags/插件",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "tools/wappalyzer-recognize-technology",
+      "title": "Wappalyzer识别网站上的技术",
+      "description": "你是否还在为不知道心仪的网站所采用的技术栈而烦恼吗，如果是，那么这款 Chrome 插件值得你拥有",
+      "permalink": "/docs/wappalyzer-recognize-technology"
+    }
+  ]
+}

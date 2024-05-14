@@ -1,0 +1,19 @@
+{
+  "title": "用户管理",
+  "keywords": [
+    "用户",
+    "管理"
+  ],
+  "slug": "/category/用户管理",
+  "permalink": "/docs/category/用户管理",
+  "navigation": {
+    "previous": {
+      "title": "xxx管理系统",
+      "permalink": "/docs/introduction"
+    },
+    "next": {
+      "title": "用户列表",
+      "permalink": "/docs/introduction/user/userList"
+    }
+  }
+}

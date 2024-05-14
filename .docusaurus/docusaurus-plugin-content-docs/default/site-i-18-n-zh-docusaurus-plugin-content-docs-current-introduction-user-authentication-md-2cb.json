@@ -1,0 +1,26 @@
+{
+  "unversionedId": "introduction/user/authentication",
+  "id": "introduction/user/authentication",
+  "title": "实名管理",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/introduction/user/authentication.md",
+  "sourceDirName": "introduction/user",
+  "slug": "/introduction/user/authentication",
+  "permalink": "/zh/docs/introduction/user/authentication",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "用户列表",
+    "permalink": "/zh/docs/introduction/user/userList"
+  },
+  "next": {
+    "title": "地址管理",
+    "permalink": "/zh/docs/introduction/user/address"
+  }
+}

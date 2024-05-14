@@ -1,0 +1,14 @@
+{
+  "label": "double-pointer",
+  "permalink": "/zh-Hans/docs/tags/double-pointer",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/algorithm/double-pointer",
+      "title": "双指针",
+      "description": "以下是有关双指针相关算法的题目与题解。",
+      "permalink": "/zh-Hans/docs/algorithm/double-pointer"
+    }
+  ]
+}

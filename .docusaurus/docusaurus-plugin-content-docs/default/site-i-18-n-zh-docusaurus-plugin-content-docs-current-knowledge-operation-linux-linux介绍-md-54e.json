@@ -1,0 +1,44 @@
+{
+  "unversionedId": "knowledge/operation/linux/linux-note",
+  "id": "knowledge/operation/linux/linux-note",
+  "title": "Linux笔记",
+  "description": "1、linux介绍",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/knowledge/operation/linux/Linux介绍.md",
+  "sourceDirName": "knowledge/operation/linux",
+  "slug": "/knowledge/operation/linux/linux-note",
+  "permalink": "/zh/docs/knowledge/operation/linux/linux-note",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/zh/docs/tags/linux"
+    },
+    {
+      "label": "operation",
+      "permalink": "/zh/docs/tags/operation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "linux-note",
+    "title": "Linux笔记",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "Linux",
+      "operation"
+    ],
+    "keywords": [
+      "Linux",
+      "operation"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "Linux",
+    "permalink": "/zh/docs/category/linux"
+  },
+  "next": {
+    "title": "Linux常用命令",
+    "permalink": "/zh/docs/knowledge/operation/linux/linux-command"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "1、安装",
+  "slug": "/category/1安装",
+  "permalink": "/zh/docs/category/1安装",
+  "navigation": {
+    "previous": {
+      "title": "Java",
+      "permalink": "/zh/docs/category/java"
+    },
+    "next": {
+      "title": "JDK安装",
+      "permalink": "/zh/docs/knowledge/backEnd/Java/安装/java-jdk"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "label": "http",
+  "permalink": "/zh-Hans/docs/tags/http",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/backEnd/go/基础/go-send-http-request",
+      "title": "Go发送http请求",
+      "description": "Get 请求",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-send-http-request"
+    }
+  ]
+}

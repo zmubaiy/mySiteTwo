@@ -1,0 +1,15 @@
+{
+  "title": "NodeJs",
+  "slug": "/category/nodejs",
+  "permalink": "/zh-Hans/docs/category/nodejs",
+  "navigation": {
+    "previous": {
+      "title": "JavaScript",
+      "permalink": "/zh-Hans/docs/knowledge/frontEnd/javascript/"
+    },
+    "next": {
+      "title": "nodejs",
+      "permalink": "/zh-Hans/docs/knowledge/frontEnd/nodejs/"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Linux",
+  "slug": "/category/linux",
+  "permalink": "/zh/docs/category/linux",
+  "navigation": {
+    "previous": {
+      "title": "1、运维",
+      "permalink": "/zh/docs/category/1运维"
+    },
+    "next": {
+      "title": "Linux笔记",
+      "permalink": "/zh/docs/knowledge/operation/linux/linux-note"
+    }
+  }
+}

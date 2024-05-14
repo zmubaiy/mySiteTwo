@@ -1,0 +1,15 @@
+{
+  "title": "Java",
+  "slug": "/category/java",
+  "permalink": "/zh-Hans/docs/category/java",
+  "navigation": {
+    "previous": {
+      "title": "3、后端",
+      "permalink": "/zh-Hans/docs/category/3后端"
+    },
+    "next": {
+      "title": "1、安装",
+      "permalink": "/zh-Hans/docs/category/1安装"
+    }
+  }
+}

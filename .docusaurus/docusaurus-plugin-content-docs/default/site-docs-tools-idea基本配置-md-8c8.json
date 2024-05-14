@@ -1,0 +1,58 @@
+{
+  "unversionedId": "tools/idea-config",
+  "id": "tools/idea-config",
+  "title": "IDEA基本配置",
+  "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+  "source": "@site/docs/tools/IDEA基本配置.md",
+  "sourceDirName": "tools",
+  "slug": "/idea-config",
+  "permalink": "/docs/idea-config",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Jetbrains",
+      "permalink": "/docs/tags/jetbrains"
+    },
+    {
+      "label": "idea",
+      "permalink": "/docs/tags/idea"
+    },
+    {
+      "label": "java",
+      "permalink": "/docs/tags/java"
+    },
+    {
+      "label": "工具",
+      "permalink": "/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "idea-config",
+    "slug": "/idea-config",
+    "title": "IDEA基本配置",
+    "date": "2022-01-06T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "Jetbrains",
+      "idea",
+      "java",
+      "工具"
+    ],
+    "keywords": [
+      "Jetbrains",
+      "idea",
+      "java",
+      "工具"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "VScode相关配置",
+    "permalink": "/docs/vscode-config"
+  },
+  "next": {
+    "title": "Vite相关插件",
+    "permalink": "/docs/vite-plugin"
+  }
+}

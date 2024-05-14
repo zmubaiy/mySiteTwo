@@ -1,0 +1,14 @@
+{
+  "label": "redis",
+  "permalink": "/docs/tags/redis",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/database/redis/redis-note",
+      "title": "Redis笔记",
+      "description": "redis 中文官方网站",
+      "permalink": "/docs/knowledge/database/redis/"
+    }
+  ]
+}

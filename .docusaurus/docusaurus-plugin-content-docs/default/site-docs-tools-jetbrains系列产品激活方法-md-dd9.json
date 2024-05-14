@@ -1,0 +1,42 @@
+{
+  "unversionedId": "tools/jetbrains-product-activation-method",
+  "id": "tools/jetbrains-product-activation-method",
+  "title": "Jetbrains系列产品激活方法",
+  "description": "jetbrains",
+  "source": "@site/docs/tools/Jetbrains系列产品激活方法.md",
+  "sourceDirName": "tools",
+  "slug": "/jetbrains-product-activation-method",
+  "permalink": "/docs/jetbrains-product-activation-method",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Jetbrains",
+      "permalink": "/docs/tags/jetbrains"
+    },
+    {
+      "label": "工具",
+      "permalink": "/docs/tags/工具"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "jetbrains-product-activation-method",
+    "slug": "/jetbrains-product-activation-method",
+    "title": "Jetbrains系列产品激活方法",
+    "date": "2020-09-03T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "Jetbrains",
+      "工具"
+    ],
+    "keywords": [
+      "Jetbrains",
+      "工具"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "Vite相关插件",
+    "permalink": "/docs/vite-plugin"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "about/about",
+  "id": "about/about",
+  "title": "About this site",
+  "description": "Location of this site",
+  "source": "@site/docs/about/关于本站.md",
+  "sourceDirName": "about",
+  "slug": "/about",
+  "permalink": "/docs/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "about",
+    "slug": "/about",
+    "title": "About this site"
+  },
+  "sidebar": "about",
+  "next": {
+    "title": "Contact information",
+    "permalink": "/docs/contact"
+  }
+}

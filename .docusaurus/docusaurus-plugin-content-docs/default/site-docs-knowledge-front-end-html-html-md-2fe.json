@@ -1,0 +1,38 @@
+{
+  "unversionedId": "knowledge/frontEnd/html/html",
+  "id": "knowledge/frontEnd/html/html",
+  "title": "html",
+  "description": "什么是HTML？",
+  "source": "@site/docs/knowledge/frontEnd/html/html.md",
+  "sourceDirName": "knowledge/frontEnd/html",
+  "slug": "/knowledge/frontEnd/html/",
+  "permalink": "/docs/knowledge/frontEnd/html/",
+  "draft": false,
+  "tags": [
+    {
+      "label": "html",
+      "permalink": "/docs/tags/html"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "html",
+    "title": "html",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "html"
+    ],
+    "keywords": [
+      "html"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "html",
+    "permalink": "/docs/category/html"
+  },
+  "next": {
+    "title": "JavaScript",
+    "permalink": "/docs/knowledge/frontEnd/javascript/"
+  }
+}

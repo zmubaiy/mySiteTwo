@@ -1,0 +1,14 @@
+{
+  "label": "美化",
+  "permalink": "/zh/docs/tags/美化",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "tools/windows-terminal-beautify",
+      "title": "Windows Terminal美化",
+      "description": "image-20210527065050479",
+      "permalink": "/zh/docs/windows-terminal-beautify"
+    }
+  ]
+}

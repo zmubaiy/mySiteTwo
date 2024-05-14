@@ -1,0 +1,15 @@
+{
+  "title": "1、安装",
+  "slug": "/category/1安装-2",
+  "permalink": "/zh-Hans/docs/category/1安装-2",
+  "navigation": {
+    "previous": {
+      "title": "Go",
+      "permalink": "/zh-Hans/docs/category/go"
+    },
+    "next": {
+      "title": "Go环境安装",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/go/安装/Go环境安装"
+    }
+  }
+}

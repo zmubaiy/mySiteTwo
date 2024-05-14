@@ -1,0 +1,32 @@
+{
+  "unversionedId": "knowledge/algorithm/algorithm-introduction",
+  "id": "knowledge/algorithm/algorithm-introduction",
+  "title": "5、算法",
+  "description": "整理常用算法, 大部分题型来源于 力扣网",
+  "source": "@site/docs/knowledge/algorithm/0.introduction.mdx",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm",
+  "permalink": "/docs/algorithm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "id": "algorithm-introduction",
+    "slug": "/algorithm",
+    "title": "5、算法",
+    "authors": "kuizuo",
+    "keywords": [
+      "algorithm-introduction"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "elasticsearch笔记",
+    "permalink": "/docs/knowledge/database/elasticsearch/"
+  },
+  "next": {
+    "title": "两数之和",
+    "permalink": "/docs/algorithm/two-sum"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "knowledge/backEnd/python/安装/python",
+  "id": "knowledge/backEnd/python/安装/python",
+  "title": "python解释器安装",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/knowledge/backEnd/python/1.安装/python解释器安装.md",
+  "sourceDirName": "knowledge/backEnd/python/1.安装",
+  "slug": "/knowledge/backEnd/python/安装/python",
+  "permalink": "/zh/docs/knowledge/backEnd/python/安装/python",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/zh/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python",
+    "title": "python解释器安装",
+    "tags": [
+      "python"
+    ],
+    "keywords": [
+      "python"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "1、安装",
+    "permalink": "/zh/docs/category/1安装-1"
+  },
+  "next": {
+    "title": "pycharm安装",
+    "permalink": "/zh/docs/knowledge/backEnd/python/安装/python-pycharm"
+  }
+}

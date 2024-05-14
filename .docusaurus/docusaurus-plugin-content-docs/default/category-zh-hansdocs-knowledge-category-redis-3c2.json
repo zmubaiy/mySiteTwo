@@ -1,0 +1,15 @@
+{
+  "title": "Redis",
+  "slug": "/category/redis",
+  "permalink": "/zh-Hans/docs/category/redis",
+  "navigation": {
+    "previous": {
+      "title": "MongoDB笔记",
+      "permalink": "/zh-Hans/docs/knowledge/database/mongo/"
+    },
+    "next": {
+      "title": "Redis笔记",
+      "permalink": "/zh-Hans/docs/knowledge/database/redis/"
+    }
+  }
+}

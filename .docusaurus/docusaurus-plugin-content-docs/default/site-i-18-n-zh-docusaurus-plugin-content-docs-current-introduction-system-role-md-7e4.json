@@ -1,0 +1,22 @@
+{
+  "unversionedId": "introduction/system/role",
+  "id": "introduction/system/role",
+  "title": "角色管理",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/introduction/system/role.md",
+  "sourceDirName": "introduction/system",
+  "slug": "/introduction/system/role",
+  "permalink": "/zh/docs/introduction/system/role",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "菜单管理",
+    "permalink": "/zh/docs/introduction/system/menu"
+  }
+}

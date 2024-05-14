@@ -1,0 +1,26 @@
+{
+  "label": "mysql",
+  "permalink": "/zh/docs/tags/mysql",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "knowledge/database/mysql/mysql-note",
+      "title": "MySql笔记",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/"
+    },
+    {
+      "id": "knowledge/database/mysql/mysql-like-optimization",
+      "title": "mysql模糊查询like优化",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/mysql-like-optimization"
+    },
+    {
+      "id": "knowledge/database/mysql/mysql-replace-function",
+      "title": "mysql替换函数replace",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/mysql-replace-function"
+    }
+  ]
+}

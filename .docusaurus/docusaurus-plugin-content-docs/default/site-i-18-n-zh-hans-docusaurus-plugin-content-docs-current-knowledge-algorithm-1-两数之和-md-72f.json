@@ -1,0 +1,40 @@
+{
+  "unversionedId": "knowledge/algorithm/two-sum",
+  "id": "knowledge/algorithm/two-sum",
+  "title": "两数之和",
+  "description": "暴力枚举",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/algorithm/1.两数之和.md",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm/two-sum",
+  "permalink": "/zh-Hans/docs/algorithm/two-sum",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/zh-Hans/docs/tags/algorithm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "two-sum",
+    "slug": "/algorithm/two-sum",
+    "title": "两数之和",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm"
+    ],
+    "keywords": [
+      "algorithm"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "5、算法",
+    "permalink": "/zh-Hans/docs/algorithm"
+  },
+  "next": {
+    "title": "三数之和",
+    "permalink": "/zh-Hans/docs/algorithm/three-sum"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "label": "vite",
+  "permalink": "/docs/tags/vite",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "tools/vite-plugin",
+      "title": "Vite相关插件",
+      "description": "记录下日常使用 Vite 的一些相关插件。",
+      "permalink": "/docs/vite-plugin"
+    }
+  ]
+}

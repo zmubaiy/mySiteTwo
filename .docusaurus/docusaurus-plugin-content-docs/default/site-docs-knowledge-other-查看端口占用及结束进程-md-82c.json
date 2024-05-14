@@ -1,0 +1,35 @@
+{
+  "unversionedId": "knowledge/other/look-up-port-and-kill-process",
+  "id": "knowledge/other/look-up-port-and-kill-process",
+  "title": "查看端口占用及结束进程",
+  "description": "Linux",
+  "source": "@site/docs/knowledge/other/查看端口占用及结束进程.md",
+  "sourceDirName": "knowledge/other",
+  "slug": "/knowledge/other/look-up-port-and-kill-process",
+  "permalink": "/docs/knowledge/other/look-up-port-and-kill-process",
+  "draft": false,
+  "tags": [
+    {
+      "label": "system",
+      "permalink": "/docs/tags/system"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "look-up-port-and-kill-process",
+    "title": "查看端口占用及结束进程",
+    "date": "2022-05-09T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "system"
+    ],
+    "keywords": [
+      "system"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "6、其它",
+    "permalink": "/docs/category/6其它"
+  }
+}

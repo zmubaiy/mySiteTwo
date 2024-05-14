@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "第一期",
+      "permalink": "/zh-Hans/blog/welcome"
+    },
+    {
+      "title": "第二期",
+      "permalink": "/zh-Hans/blog/mdx-blog-post"
+    },
+    {
+      "title": "第三期",
+      "permalink": "/zh-Hans/blog/long-blog-post"
+    },
+    {
+      "title": "第四期",
+      "permalink": "/zh-Hans/blog/first-blog-post"
+    }
+  ]
+}

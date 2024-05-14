@@ -1,0 +1,15 @@
+{
+  "title": "3、进阶",
+  "slug": "/category/3进阶-1",
+  "permalink": "/zh-Hans/docs/category/3进阶-1",
+  "navigation": {
+    "previous": {
+      "title": "python基础",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/python/基础/python-base"
+    },
+    "next": {
+      "title": "python-flask",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/python/进阶/python-flask"
+    }
+  }
+}

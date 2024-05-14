@@ -1,0 +1,45 @@
+{
+  "unversionedId": "knowledge/backEnd/go/基础/try-gin-framework",
+  "id": "knowledge/backEnd/go/基础/try-gin-framework",
+  "title": "Gin框架初体验",
+  "description": "安装 Gin",
+  "source": "@site/docs/knowledge/backEnd/go/2.基础/Gin框架初体验.md",
+  "sourceDirName": "knowledge/backEnd/go/2.基础",
+  "slug": "/knowledge/backEnd/go/基础/try-gin-framework",
+  "permalink": "/docs/knowledge/backEnd/go/基础/try-gin-framework",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/docs/tags/go"
+    },
+    {
+      "label": "gin",
+      "permalink": "/docs/tags/gin"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "try-gin-framework",
+    "title": "Gin框架初体验",
+    "date": "2021-09-01T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go",
+      "gin"
+    ],
+    "keywords": [
+      "go",
+      "gin"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "Go并发",
+    "permalink": "/docs/knowledge/backEnd/go/基础/go-concurrent"
+  },
+  "next": {
+    "title": "4、数据库",
+    "permalink": "/docs/category/4数据库"
+  }
+}

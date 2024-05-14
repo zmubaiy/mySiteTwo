@@ -1,0 +1,15 @@
+{
+  "title": "MongoDB",
+  "slug": "/category/mongodb",
+  "permalink": "/zh/docs/category/mongodb",
+  "navigation": {
+    "previous": {
+      "title": "mysql模糊查询like优化",
+      "permalink": "/zh/docs/knowledge/database/mysql/mysql-like-optimization"
+    },
+    "next": {
+      "title": "MongoDB笔记",
+      "permalink": "/zh/docs/knowledge/database/mongo/"
+    }
+  }
+}

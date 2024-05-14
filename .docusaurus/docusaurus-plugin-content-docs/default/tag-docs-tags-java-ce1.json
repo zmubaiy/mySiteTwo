@@ -1,0 +1,44 @@
+{
+  "label": "java",
+  "permalink": "/docs/tags/java",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "tools/idea-config",
+      "title": "IDEA基本配置",
+      "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+      "permalink": "/docs/idea-config"
+    },
+    {
+      "id": "knowledge/backEnd/Java/进阶/java-proxy",
+      "title": "Java代理",
+      "description": "前言",
+      "permalink": "/docs/knowledge/backEnd/Java/进阶/java-proxy"
+    },
+    {
+      "id": "knowledge/backEnd/Java/进阶/java-reflect",
+      "title": "java反射",
+      "description": "什么是反射？",
+      "permalink": "/docs/knowledge/backEnd/Java/进阶/java-reflect"
+    },
+    {
+      "id": "knowledge/backEnd/Java/基础/java-base",
+      "title": "Java基础",
+      "description": "前言",
+      "permalink": "/docs/knowledge/backEnd/Java/基础/java-base"
+    },
+    {
+      "id": "knowledge/backEnd/Java/安装/java-tools-install",
+      "title": "Java开发工具安装",
+      "description": "IntelliJ IDEA",
+      "permalink": "/docs/knowledge/backEnd/Java/安装/java-tools-install"
+    },
+    {
+      "id": "knowledge/backEnd/Java/安装/java-jdk",
+      "title": "JDK安装",
+      "description": "1、下载JDK",
+      "permalink": "/docs/knowledge/backEnd/Java/安装/java-jdk"
+    }
+  ]
+}

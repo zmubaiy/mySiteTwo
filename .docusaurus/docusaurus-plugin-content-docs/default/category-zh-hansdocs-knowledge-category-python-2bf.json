@@ -1,0 +1,15 @@
+{
+  "title": "Python",
+  "slug": "/category/python",
+  "permalink": "/zh-Hans/docs/category/python",
+  "navigation": {
+    "previous": {
+      "title": "Java代理",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/Java/进阶/java-proxy"
+    },
+    "next": {
+      "title": "1、安装",
+      "permalink": "/zh-Hans/docs/category/1安装-1"
+    }
+  }
+}

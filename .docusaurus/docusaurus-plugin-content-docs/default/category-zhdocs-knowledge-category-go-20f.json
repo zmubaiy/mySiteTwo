@@ -1,0 +1,15 @@
+{
+  "title": "Go",
+  "slug": "/category/go",
+  "permalink": "/zh/docs/category/go",
+  "navigation": {
+    "previous": {
+      "title": "python-flask",
+      "permalink": "/zh/docs/knowledge/backEnd/python/进阶/python-flask"
+    },
+    "next": {
+      "title": "1、安装",
+      "permalink": "/zh/docs/category/1安装-2"
+    }
+  }
+}

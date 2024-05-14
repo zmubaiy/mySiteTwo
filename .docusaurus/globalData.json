@@ -1,0 +1,454 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/zh-Hans/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/zh-Hans/docs",
+          "mainDocId": "knowledge/introduction",
+          "docs": [
+            {
+              "id": "about/about",
+              "path": "/zh-Hans/docs/about",
+              "sidebar": "about"
+            },
+            {
+              "id": "about/contact",
+              "path": "/zh-Hans/docs/contact",
+              "sidebar": "about"
+            },
+            {
+              "id": "introduction/content/advertiseList",
+              "path": "/zh-Hans/docs/introduction/content/advertiseList",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/introduction",
+              "path": "/zh-Hans/docs/introduction",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/system/menu",
+              "path": "/zh-Hans/docs/introduction/system/menu",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/system/role",
+              "path": "/zh-Hans/docs/introduction/system/role",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/user/address",
+              "path": "/zh-Hans/docs/introduction/user/address",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/user/authentication",
+              "path": "/zh-Hans/docs/introduction/user/authentication",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/user/userList",
+              "path": "/zh-Hans/docs/introduction/user/userList",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "knowledge/algorithm/algorithm-introduction",
+              "path": "/zh-Hans/docs/algorithm",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/algorithm/double-pointer",
+              "path": "/zh-Hans/docs/algorithm/double-pointer",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/algorithm/hash-table",
+              "path": "/zh-Hans/docs/algorithm/hash-table"
+            },
+            {
+              "id": "knowledge/algorithm/sliding-window",
+              "path": "/zh-Hans/docs/algorithm/sliding-window",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/algorithm/three-sum",
+              "path": "/zh-Hans/docs/algorithm/three-sum",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/algorithm/two-sum",
+              "path": "/zh-Hans/docs/algorithm/two-sum",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/安装/Go环境安装",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/安装/Go环境安装",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/基础/go-call-js",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-call-js",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/基础/go-concurrent",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-concurrent",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/基础/go-json-usage",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-json-usage",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/基础/go-send-http-request",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-send-http-request",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/go/基础/try-gin-framework",
+              "path": "/zh-Hans/docs/knowledge/backEnd/go/基础/try-gin-framework",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/Java/安装/java-jdk",
+              "path": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-jdk",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/Java/安装/java-tools-install",
+              "path": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-tools-install",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/Java/基础/java-base",
+              "path": "/zh-Hans/docs/knowledge/backEnd/Java/基础/java-base",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/Java/进阶/java-proxy",
+              "path": "/zh-Hans/docs/knowledge/backEnd/Java/进阶/java-proxy",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/Java/进阶/java-reflect",
+              "path": "/zh-Hans/docs/knowledge/backEnd/Java/进阶/java-reflect",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/python/安装/python",
+              "path": "/zh-Hans/docs/knowledge/backEnd/python/安装/python",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/python/安装/python-pycharm",
+              "path": "/zh-Hans/docs/knowledge/backEnd/python/安装/python-pycharm",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/python/基础/python-base",
+              "path": "/zh-Hans/docs/knowledge/backEnd/python/基础/python-base",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/backEnd/python/进阶/python-flask",
+              "path": "/zh-Hans/docs/knowledge/backEnd/python/进阶/python-flask",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/elasticsearch/elasticsearch-note",
+              "path": "/zh-Hans/docs/knowledge/database/elasticsearch/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/mongo/mongodb-note",
+              "path": "/zh-Hans/docs/knowledge/database/mongo/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/mysql/mysql-like-optimization",
+              "path": "/zh-Hans/docs/knowledge/database/mysql/mysql-like-optimization",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/mysql/mysql-note",
+              "path": "/zh-Hans/docs/knowledge/database/mysql/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/mysql/mysql-replace-function",
+              "path": "/zh-Hans/docs/knowledge/database/mysql/mysql-replace-function",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/database/redis/redis-note",
+              "path": "/zh-Hans/docs/knowledge/database/redis/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/frontEnd/html/html",
+              "path": "/zh-Hans/docs/knowledge/frontEnd/html/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/frontEnd/javascript/javascript",
+              "path": "/zh-Hans/docs/knowledge/frontEnd/javascript/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/frontEnd/nodejs/nodejs",
+              "path": "/zh-Hans/docs/knowledge/frontEnd/nodejs/",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/frontEnd/nodejs/nodejs-nvm",
+              "path": "/zh-Hans/docs/knowledge/frontEnd/nodejs/nodejs-nvm",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/introduction",
+              "path": "/zh-Hans/docs/knowledge",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/operation/k8s/k8s-note",
+              "path": "/zh-Hans/docs/knowledge/operation/k8s/k8s-note",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/operation/linux/linux-command",
+              "path": "/zh-Hans/docs/knowledge/operation/linux/linux-command",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/operation/linux/linux-note",
+              "path": "/zh-Hans/docs/knowledge/operation/linux/linux-note",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/operation/linux/linux-vim",
+              "path": "/zh-Hans/docs/knowledge/operation/linux/linux-vim",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "knowledge/other/look-up-port-and-kill-process",
+              "path": "/zh-Hans/docs/knowledge/other/look-up-port-and-kill-process",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "tools/everything-quick-search-local-files",
+              "path": "/zh-Hans/docs/everything-quick-search-local-files",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/idea-config",
+              "path": "/zh-Hans/docs/idea-config",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/introduction",
+              "path": "/zh-Hans/docs/tools",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/jetbrains-product-activation-method",
+              "path": "/zh-Hans/docs/jetbrains-product-activation-method",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/vite-plugin",
+              "path": "/zh-Hans/docs/vite-plugin",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/vscode-config",
+              "path": "/zh-Hans/docs/vscode-config",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/wappalyzer-recognize-technology",
+              "path": "/zh-Hans/docs/wappalyzer-recognize-technology",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/windows-custom-right-click-menu",
+              "path": "/zh-Hans/docs/windows-custom-right-click-menu",
+              "sidebar": "tools"
+            },
+            {
+              "id": "tools/windows-terminal-beautify",
+              "path": "/zh-Hans/docs/windows-terminal-beautify"
+            },
+            {
+              "id": "/category/1运维",
+              "path": "/zh-Hans/docs/category/1运维",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/linux",
+              "path": "/zh-Hans/docs/category/linux",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/k8s",
+              "path": "/zh-Hans/docs/category/k8s",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/2前端",
+              "path": "/zh-Hans/docs/category/2前端",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/html",
+              "path": "/zh-Hans/docs/category/html",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/nodejs",
+              "path": "/zh-Hans/docs/category/nodejs",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/3后端",
+              "path": "/zh-Hans/docs/category/3后端",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/java",
+              "path": "/zh-Hans/docs/category/java",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/1安装",
+              "path": "/zh-Hans/docs/category/1安装",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/2基础",
+              "path": "/zh-Hans/docs/category/2基础",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/3进阶",
+              "path": "/zh-Hans/docs/category/3进阶",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/python",
+              "path": "/zh-Hans/docs/category/python",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/1安装-1",
+              "path": "/zh-Hans/docs/category/1安装-1",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/2基础-1",
+              "path": "/zh-Hans/docs/category/2基础-1",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/3进阶-1",
+              "path": "/zh-Hans/docs/category/3进阶-1",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/go",
+              "path": "/zh-Hans/docs/category/go",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/1安装-2",
+              "path": "/zh-Hans/docs/category/1安装-2",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/2开发",
+              "path": "/zh-Hans/docs/category/2开发",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/4数据库",
+              "path": "/zh-Hans/docs/category/4数据库",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/mysql",
+              "path": "/zh-Hans/docs/category/mysql",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/mongodb",
+              "path": "/zh-Hans/docs/category/mongodb",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/redis",
+              "path": "/zh-Hans/docs/category/redis",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/elasticsearch",
+              "path": "/zh-Hans/docs/category/elasticsearch",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/6其它",
+              "path": "/zh-Hans/docs/category/6其它",
+              "sidebar": "knowledge"
+            },
+            {
+              "id": "/category/用户管理",
+              "path": "/zh-Hans/docs/category/用户管理",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "/category/内容管理",
+              "path": "/zh-Hans/docs/category/内容管理",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "/category/系统管理",
+              "path": "/zh-Hans/docs/category/系统管理",
+              "sidebar": "introduction"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "knowledge": {
+              "link": {
+                "path": "/zh-Hans/docs/knowledge",
+                "label": "knowledge/introduction"
+              }
+            },
+            "introduction": {
+              "link": {
+                "path": "/zh-Hans/docs/introduction",
+                "label": "introduction/introduction"
+              }
+            },
+            "tools": {
+              "link": {
+                "path": "/zh-Hans/docs/tools",
+                "label": "tools/introduction"
+              }
+            },
+            "about": {
+              "link": {
+                "path": "/zh-Hans/docs/about",
+                "label": "about/about"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

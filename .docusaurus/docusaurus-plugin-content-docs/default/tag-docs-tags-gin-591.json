@@ -1,0 +1,14 @@
+{
+  "label": "gin",
+  "permalink": "/docs/tags/gin",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/backEnd/go/基础/try-gin-framework",
+      "title": "Gin框架初体验",
+      "description": "安装 Gin",
+      "permalink": "/docs/knowledge/backEnd/go/基础/try-gin-framework"
+    }
+  ]
+}

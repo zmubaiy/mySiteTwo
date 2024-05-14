@@ -1,0 +1,37 @@
+{
+  "unversionedId": "tools/windows-terminal-beautify",
+  "id": "tools/windows-terminal-beautify",
+  "title": "Windows Terminal美化",
+  "description": "image-20210527065050479",
+  "source": "@site/docs/tools/Windows Terminal美化.md",
+  "sourceDirName": "tools",
+  "slug": "/windows-terminal-beautify",
+  "permalink": "/docs/windows-terminal-beautify",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Terminal",
+      "permalink": "/docs/tags/terminal"
+    },
+    {
+      "label": "美化",
+      "permalink": "/docs/tags/美化"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "windows-terminal-beautify",
+    "slug": "/windows-terminal-beautify",
+    "title": "Windows Terminal美化",
+    "date": "2021-05-04T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "Terminal",
+      "美化"
+    ],
+    "keywords": [
+      "Terminal",
+      "美化"
+    ]
+  }
+}

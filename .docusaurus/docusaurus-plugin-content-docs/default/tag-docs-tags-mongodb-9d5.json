@@ -1,0 +1,14 @@
+{
+  "label": "mongodb",
+  "permalink": "/docs/tags/mongodb",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/database/mongo/mongodb-note",
+      "title": "MongoDB笔记",
+      "description": "安装",
+      "permalink": "/docs/knowledge/database/mongo/"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "3、进阶",
+  "slug": "/category/3进阶",
+  "permalink": "/zh/docs/category/3进阶",
+  "navigation": {
+    "previous": {
+      "title": "Java基础",
+      "permalink": "/zh/docs/knowledge/backEnd/Java/基础/java-base"
+    },
+    "next": {
+      "title": "java反射",
+      "permalink": "/zh/docs/knowledge/backEnd/Java/进阶/java-reflect"
+    }
+  }
+}

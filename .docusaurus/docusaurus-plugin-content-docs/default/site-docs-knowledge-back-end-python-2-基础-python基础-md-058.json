@@ -1,0 +1,37 @@
+{
+  "unversionedId": "knowledge/backEnd/python/基础/python-base",
+  "id": "knowledge/backEnd/python/基础/python-base",
+  "title": "python基础",
+  "description": "1、",
+  "source": "@site/docs/knowledge/backEnd/python/2.基础/python基础.md",
+  "sourceDirName": "knowledge/backEnd/python/2.基础",
+  "slug": "/knowledge/backEnd/python/基础/python-base",
+  "permalink": "/docs/knowledge/backEnd/python/基础/python-base",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python-base",
+    "title": "python基础",
+    "tags": [
+      "python"
+    ],
+    "keywords": [
+      "python"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "2、基础",
+    "permalink": "/docs/category/2基础-1"
+  },
+  "next": {
+    "title": "3、进阶",
+    "permalink": "/docs/category/3进阶-1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Mysql",
+  "slug": "/category/mysql",
+  "permalink": "/zh/docs/category/mysql",
+  "navigation": {
+    "previous": {
+      "title": "4、数据库",
+      "permalink": "/zh/docs/category/4数据库"
+    },
+    "next": {
+      "title": "MySql笔记",
+      "permalink": "/zh/docs/knowledge/database/mysql/"
+    }
+  }
+}

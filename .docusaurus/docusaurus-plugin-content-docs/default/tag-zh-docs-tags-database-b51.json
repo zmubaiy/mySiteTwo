@@ -1,0 +1,44 @@
+{
+  "label": "database",
+  "permalink": "/zh/docs/tags/database",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "knowledge/database/elasticsearch/elasticsearch-note",
+      "title": "elasticsearch笔记",
+      "description": "Elasticsearch Clients | Elastic 官方文档",
+      "permalink": "/zh/docs/knowledge/database/elasticsearch/"
+    },
+    {
+      "id": "knowledge/database/mongo/mongodb-note",
+      "title": "MongoDB笔记",
+      "description": "安装",
+      "permalink": "/zh/docs/knowledge/database/mongo/"
+    },
+    {
+      "id": "knowledge/database/mysql/mysql-note",
+      "title": "MySql笔记",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/"
+    },
+    {
+      "id": "knowledge/database/mysql/mysql-like-optimization",
+      "title": "mysql模糊查询like优化",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/mysql-like-optimization"
+    },
+    {
+      "id": "knowledge/database/mysql/mysql-replace-function",
+      "title": "mysql替换函数replace",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/database/mysql/mysql-replace-function"
+    },
+    {
+      "id": "knowledge/database/redis/redis-note",
+      "title": "Redis笔记",
+      "description": "redis 中文官方网站",
+      "permalink": "/zh/docs/knowledge/database/redis/"
+    }
+  ]
+}

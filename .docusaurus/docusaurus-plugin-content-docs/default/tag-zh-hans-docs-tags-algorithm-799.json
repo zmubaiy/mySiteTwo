@@ -1,0 +1,38 @@
+{
+  "label": "algorithm",
+  "permalink": "/zh-Hans/docs/tags/algorithm",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "knowledge/algorithm/hash-table",
+      "title": "哈希表",
+      "description": "快乐数",
+      "permalink": "/zh-Hans/docs/algorithm/hash-table"
+    },
+    {
+      "id": "knowledge/algorithm/sliding-window",
+      "title": "滑动窗口",
+      "description": "无重复字符的最长子串",
+      "permalink": "/zh-Hans/docs/algorithm/sliding-window"
+    },
+    {
+      "id": "knowledge/algorithm/two-sum",
+      "title": "两数之和",
+      "description": "暴力枚举",
+      "permalink": "/zh-Hans/docs/algorithm/two-sum"
+    },
+    {
+      "id": "knowledge/algorithm/three-sum",
+      "title": "三数之和",
+      "description": "排序+双指针",
+      "permalink": "/zh-Hans/docs/algorithm/three-sum"
+    },
+    {
+      "id": "knowledge/algorithm/double-pointer",
+      "title": "双指针",
+      "description": "以下是有关双指针相关算法的题目与题解。",
+      "permalink": "/zh-Hans/docs/algorithm/double-pointer"
+    }
+  ]
+}

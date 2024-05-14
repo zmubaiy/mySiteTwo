@@ -1,0 +1,40 @@
+{
+  "unversionedId": "knowledge/algorithm/three-sum",
+  "id": "knowledge/algorithm/three-sum",
+  "title": "三数之和",
+  "description": "排序+双指针",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/algorithm/2.三数之和.md",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm/three-sum",
+  "permalink": "/zh-Hans/docs/algorithm/three-sum",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/zh-Hans/docs/tags/algorithm"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "three-sum",
+    "slug": "/algorithm/three-sum",
+    "title": "三数之和",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm"
+    ],
+    "keywords": [
+      "algorithm"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "两数之和",
+    "permalink": "/zh-Hans/docs/algorithm/two-sum"
+  },
+  "next": {
+    "title": "滑动窗口",
+    "permalink": "/zh-Hans/docs/algorithm/sliding-window"
+  }
+}

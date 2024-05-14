@@ -1,0 +1,46 @@
+{
+  "unversionedId": "tools/wappalyzer-recognize-technology",
+  "id": "tools/wappalyzer-recognize-technology",
+  "title": "Wappalyzer识别网站上的技术",
+  "description": "你是否还在为不知道心仪的网站所采用的技术栈而烦恼吗，如果是，那么这款 Chrome 插件值得你拥有",
+  "source": "@site/docs/tools/Wappalyzer识别网站上的技术.md",
+  "sourceDirName": "tools",
+  "slug": "/wappalyzer-recognize-technology",
+  "permalink": "/docs/wappalyzer-recognize-technology",
+  "draft": false,
+  "tags": [
+    {
+      "label": "chrome",
+      "permalink": "/docs/tags/chrome"
+    },
+    {
+      "label": "插件",
+      "permalink": "/docs/tags/插件"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "wappalyzer-recognize-technology",
+    "slug": "/wappalyzer-recognize-technology",
+    "title": "Wappalyzer识别网站上的技术",
+    "date": "2021-07-20T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "chrome",
+      "插件"
+    ],
+    "keywords": [
+      "chrome",
+      "插件"
+    ]
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "Everything快速搜索本地文件",
+    "permalink": "/docs/everything-quick-search-local-files"
+  },
+  "next": {
+    "title": "Windows自定义右键菜单",
+    "permalink": "/docs/windows-custom-right-click-menu"
+  }
+}

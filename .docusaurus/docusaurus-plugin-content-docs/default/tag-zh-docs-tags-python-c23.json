@@ -1,0 +1,32 @@
+{
+  "label": "python",
+  "permalink": "/zh/docs/tags/python",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "knowledge/backEnd/python/安装/python-pycharm",
+      "title": "pycharm安装",
+      "description": "破解",
+      "permalink": "/zh/docs/knowledge/backEnd/python/安装/python-pycharm"
+    },
+    {
+      "id": "knowledge/backEnd/python/进阶/python-flask",
+      "title": "python-flask",
+      "description": "Flask是一个使用Python编写的轻量级Web应用框架。它由Armin Ronacher创建，其设计哲学是简单易用，使得开发者可以快速地构建一个基础的Web应用。Flask提供了必要的工具和功能，让开发者能够扩展其功能来适应各种Web应用的需求。",
+      "permalink": "/zh/docs/knowledge/backEnd/python/进阶/python-flask"
+    },
+    {
+      "id": "knowledge/backEnd/python/基础/python-base",
+      "title": "python基础",
+      "description": "1、",
+      "permalink": "/zh/docs/knowledge/backEnd/python/基础/python-base"
+    },
+    {
+      "id": "knowledge/backEnd/python/安装/python",
+      "title": "python解释器安装",
+      "description": "",
+      "permalink": "/zh/docs/knowledge/backEnd/python/安装/python"
+    }
+  ]
+}

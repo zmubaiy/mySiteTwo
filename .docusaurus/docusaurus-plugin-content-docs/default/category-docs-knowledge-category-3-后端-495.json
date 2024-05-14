@@ -1,0 +1,21 @@
+{
+  "title": "3、后端",
+  "description": "语言包括Java、go、python，后续持续更新",
+  "keywords": [
+    "go",
+    "Java",
+    "python"
+  ],
+  "slug": "/category/3后端",
+  "permalink": "/docs/category/3后端",
+  "navigation": {
+    "previous": {
+      "title": "nvm",
+      "permalink": "/docs/knowledge/frontEnd/nodejs/nodejs-nvm"
+    },
+    "next": {
+      "title": "Java",
+      "permalink": "/docs/category/java"
+    }
+  }
+}

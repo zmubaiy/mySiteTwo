@@ -1,0 +1,19 @@
+{
+  "title": "系统管理",
+  "keywords": [
+    "系统",
+    "管理"
+  ],
+  "slug": "/category/系统管理",
+  "permalink": "/docs/category/系统管理",
+  "navigation": {
+    "previous": {
+      "title": "广告管理",
+      "permalink": "/docs/introduction/content/advertiseList"
+    },
+    "next": {
+      "title": "菜单管理",
+      "permalink": "/docs/introduction/system/menu"
+    }
+  }
+}

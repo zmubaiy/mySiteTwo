@@ -1,0 +1,23 @@
+{
+  "unversionedId": "introduction/introduction",
+  "id": "introduction/introduction",
+  "title": "xxx管理系统",
+  "description": "xxx管理系统为了更方便管理员工。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/introduction/introduction.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction",
+  "permalink": "/zh/docs/introduction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "slug": "/introduction",
+    "title": "xxx管理系统"
+  },
+  "sidebar": "introduction",
+  "next": {
+    "title": "用户管理",
+    "permalink": "/zh/docs/category/用户管理"
+  }
+}

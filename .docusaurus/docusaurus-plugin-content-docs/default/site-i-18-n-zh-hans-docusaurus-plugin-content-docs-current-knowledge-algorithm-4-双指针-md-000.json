@@ -1,0 +1,46 @@
+{
+  "unversionedId": "knowledge/algorithm/double-pointer",
+  "id": "knowledge/algorithm/double-pointer",
+  "title": "双指针",
+  "description": "以下是有关双指针相关算法的题目与题解。",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/algorithm/4.双指针.md",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm/double-pointer",
+  "permalink": "/zh-Hans/docs/algorithm/double-pointer",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/zh-Hans/docs/tags/algorithm"
+    },
+    {
+      "label": "double-pointer",
+      "permalink": "/zh-Hans/docs/tags/double-pointer"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "double-pointer",
+    "slug": "/algorithm/double-pointer",
+    "title": "双指针",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm",
+      "double-pointer"
+    ],
+    "keywords": [
+      "algorithm",
+      "double-pointer"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "滑动窗口",
+    "permalink": "/zh-Hans/docs/algorithm/sliding-window"
+  },
+  "next": {
+    "title": "6、其它",
+    "permalink": "/zh-Hans/docs/category/6其它"
+  }
+}

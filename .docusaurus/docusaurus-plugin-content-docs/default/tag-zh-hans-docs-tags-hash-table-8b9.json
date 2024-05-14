@@ -1,0 +1,14 @@
+{
+  "label": "hash-table",
+  "permalink": "/zh-Hans/docs/tags/hash-table",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/algorithm/hash-table",
+      "title": "哈希表",
+      "description": "快乐数",
+      "permalink": "/zh-Hans/docs/algorithm/hash-table"
+    }
+  ]
+}

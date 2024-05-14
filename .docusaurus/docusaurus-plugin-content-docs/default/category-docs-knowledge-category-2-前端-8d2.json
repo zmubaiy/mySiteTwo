@@ -1,0 +1,21 @@
+{
+  "title": "2、前端",
+  "keywords": [
+    "html",
+    "javascript",
+    "node",
+    "css"
+  ],
+  "slug": "/category/2前端",
+  "permalink": "/docs/category/2前端",
+  "navigation": {
+    "previous": {
+      "title": "k8s笔记",
+      "permalink": "/docs/knowledge/operation/k8s/k8s-note"
+    },
+    "next": {
+      "title": "html",
+      "permalink": "/docs/category/html"
+    }
+  }
+}

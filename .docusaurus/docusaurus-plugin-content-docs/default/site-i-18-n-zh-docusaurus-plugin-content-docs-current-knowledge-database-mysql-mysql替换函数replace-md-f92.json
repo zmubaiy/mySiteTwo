@@ -1,0 +1,46 @@
+{
+  "unversionedId": "knowledge/database/mysql/mysql-replace-function",
+  "id": "knowledge/database/mysql/mysql-replace-function",
+  "title": "mysql替换函数replace",
+  "description": "1、前言",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/knowledge/database/mysql/Mysql替换函数replace.md",
+  "sourceDirName": "knowledge/database/mysql",
+  "slug": "/knowledge/database/mysql/mysql-replace-function",
+  "permalink": "/zh/docs/knowledge/database/mysql/mysql-replace-function",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mysql",
+      "permalink": "/zh/docs/tags/mysql"
+    },
+    {
+      "label": "database",
+      "permalink": "/zh/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "mysql-replace-function",
+    "title": "mysql替换函数replace",
+    "date": "2021-01-07T00:00:00.000Z",
+    "tags": [
+      "mysql",
+      "database"
+    ],
+    "keywords": [
+      "mysql",
+      "database"
+    ],
+    "sidebar_position": 2
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "MySql笔记",
+    "permalink": "/zh/docs/knowledge/database/mysql/"
+  },
+  "next": {
+    "title": "mysql模糊查询like优化",
+    "permalink": "/zh/docs/knowledge/database/mysql/mysql-like-optimization"
+  }
+}

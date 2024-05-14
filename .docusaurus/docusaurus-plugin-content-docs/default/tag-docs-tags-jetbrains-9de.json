@@ -1,0 +1,20 @@
+{
+  "label": "Jetbrains",
+  "permalink": "/docs/tags/jetbrains",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "tools/idea-config",
+      "title": "IDEA基本配置",
+      "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+      "permalink": "/docs/idea-config"
+    },
+    {
+      "id": "tools/jetbrains-product-activation-method",
+      "title": "Jetbrains系列产品激活方法",
+      "description": "jetbrains",
+      "permalink": "/docs/jetbrains-product-activation-method"
+    }
+  ]
+}

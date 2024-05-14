@@ -1,0 +1,45 @@
+{
+  "unversionedId": "knowledge/backEnd/go/基础/go-json-usage",
+  "id": "knowledge/backEnd/go/基础/go-json-usage",
+  "title": "Go语言之json使用",
+  "description": "Go 语言中，官方提供了一个专门的包 encoding/json",
+  "source": "@site/docs/knowledge/backEnd/go/2.基础/Go语言之json使用.md",
+  "sourceDirName": "knowledge/backEnd/go/2.基础",
+  "slug": "/knowledge/backEnd/go/基础/go-json-usage",
+  "permalink": "/docs/knowledge/backEnd/go/基础/go-json-usage",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/docs/tags/go"
+    },
+    {
+      "label": "json",
+      "permalink": "/docs/tags/json"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "go-json-usage",
+    "title": "Go语言之json使用",
+    "date": "2022-05-20T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go",
+      "json"
+    ],
+    "keywords": [
+      "go",
+      "json"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "2、开发",
+    "permalink": "/docs/category/2开发"
+  },
+  "next": {
+    "title": "Go发送http请求",
+    "permalink": "/docs/knowledge/backEnd/go/基础/go-send-http-request"
+  }
+}

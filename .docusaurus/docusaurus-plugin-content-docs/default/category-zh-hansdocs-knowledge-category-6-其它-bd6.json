@@ -1,0 +1,15 @@
+{
+  "title": "6、其它",
+  "slug": "/category/6其它",
+  "permalink": "/zh-Hans/docs/category/6其它",
+  "navigation": {
+    "previous": {
+      "title": "双指针",
+      "permalink": "/zh-Hans/docs/algorithm/double-pointer"
+    },
+    "next": {
+      "title": "查看端口占用及结束进程",
+      "permalink": "/zh-Hans/docs/knowledge/other/look-up-port-and-kill-process"
+    }
+  }
+}

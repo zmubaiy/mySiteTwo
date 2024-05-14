@@ -1,0 +1,49 @@
+{
+  "unversionedId": "knowledge/backEnd/Java/安装/java-tools-install",
+  "id": "knowledge/backEnd/Java/安装/java-tools-install",
+  "title": "Java开发工具安装",
+  "description": "IntelliJ IDEA",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/backEnd/Java/1.安装/Java开发工具安装.md",
+  "sourceDirName": "knowledge/backEnd/Java/1.安装",
+  "slug": "/knowledge/backEnd/Java/安装/java-tools-install",
+  "permalink": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-tools-install",
+  "draft": false,
+  "tags": [
+    {
+      "label": "java",
+      "permalink": "/zh-Hans/docs/tags/java"
+    },
+    {
+      "label": "idea",
+      "permalink": "/zh-Hans/docs/tags/idea"
+    },
+    {
+      "label": "eclipse",
+      "permalink": "/zh-Hans/docs/tags/eclipse"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "java-tools-install",
+    "title": "Java开发工具安装",
+    "tags": [
+      "java",
+      "idea",
+      "eclipse"
+    ],
+    "keywords": [
+      "java",
+      "idea",
+      "eclipse"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "JDK安装",
+    "permalink": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-jdk"
+  },
+  "next": {
+    "title": "2、基础",
+    "permalink": "/zh-Hans/docs/category/2基础"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "unversionedId": "knowledge/operation/linux/linux-command",
+  "id": "knowledge/operation/linux/linux-command",
+  "title": "Linux常用命令",
+  "description": "1. ls：列出当前目录中的文件和子目录",
+  "source": "@site/docs/knowledge/operation/linux/Linux常用命令.md",
+  "sourceDirName": "knowledge/operation/linux",
+  "slug": "/knowledge/operation/linux/linux-command",
+  "permalink": "/docs/knowledge/operation/linux/linux-command",
+  "draft": false,
+  "tags": [
+    {
+      "label": "Linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "label": "operation",
+      "permalink": "/docs/tags/operation"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "linux-command",
+    "title": "Linux常用命令",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "Linux",
+      "operation"
+    ],
+    "keywords": [
+      "Linux",
+      "operation"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "Linux笔记",
+    "permalink": "/docs/knowledge/operation/linux/linux-note"
+  },
+  "next": {
+    "title": "vim",
+    "permalink": "/docs/knowledge/operation/linux/linux-vim"
+  }
+}

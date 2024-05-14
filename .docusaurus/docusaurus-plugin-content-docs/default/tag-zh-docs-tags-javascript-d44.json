@@ -1,0 +1,14 @@
+{
+  "label": "javascript",
+  "permalink": "/zh/docs/tags/javascript",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/backEnd/go/基础/go-call-js",
+      "title": "Go调用js代码",
+      "description": "运行 js 代码",
+      "permalink": "/zh/docs/knowledge/backEnd/go/基础/go-call-js"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "unversionedId": "knowledge/introduction",
+  "id": "knowledge/introduction",
+  "title": "技术笔记",
+  "description": "本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于",
+  "source": "@site/docs/knowledge/introduction.md",
+  "sourceDirName": "knowledge",
+  "slug": "/knowledge",
+  "permalink": "/docs/knowledge",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "slug": "/knowledge",
+    "title": "技术笔记",
+    "keywords": [
+      "前端",
+      "后端",
+      "Vue",
+      "React",
+      "JavaScript",
+      "Typescript",
+      "数据库",
+      "HTTP",
+      "算法"
+    ]
+  },
+  "sidebar": "knowledge",
+  "next": {
+    "title": "1、运维",
+    "permalink": "/docs/category/1运维"
+  }
+}

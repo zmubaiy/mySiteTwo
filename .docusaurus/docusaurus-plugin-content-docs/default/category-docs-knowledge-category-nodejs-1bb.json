@@ -1,0 +1,15 @@
+{
+  "title": "NodeJs",
+  "slug": "/category/nodejs",
+  "permalink": "/docs/category/nodejs",
+  "navigation": {
+    "previous": {
+      "title": "JavaScript",
+      "permalink": "/docs/knowledge/frontEnd/javascript/"
+    },
+    "next": {
+      "title": "nodejs",
+      "permalink": "/docs/knowledge/frontEnd/nodejs/"
+    }
+  }
+}

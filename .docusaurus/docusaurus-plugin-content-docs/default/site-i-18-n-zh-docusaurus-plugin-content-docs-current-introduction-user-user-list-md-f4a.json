@@ -1,0 +1,26 @@
+{
+  "unversionedId": "introduction/user/userList",
+  "id": "introduction/user/userList",
+  "title": "用户列表",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/introduction/user/userList.md",
+  "sourceDirName": "introduction/user",
+  "slug": "/introduction/user/userList",
+  "permalink": "/zh/docs/introduction/user/userList",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "用户管理",
+    "permalink": "/zh/docs/category/用户管理"
+  },
+  "next": {
+    "title": "实名管理",
+    "permalink": "/zh/docs/introduction/user/authentication"
+  }
+}

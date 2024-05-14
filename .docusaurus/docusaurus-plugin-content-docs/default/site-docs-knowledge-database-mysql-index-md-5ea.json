@@ -1,0 +1,46 @@
+{
+  "unversionedId": "knowledge/database/mysql/mysql-note",
+  "id": "knowledge/database/mysql/mysql-note",
+  "title": "MySql笔记",
+  "description": "1、前言",
+  "source": "@site/docs/knowledge/database/mysql/index.md",
+  "sourceDirName": "knowledge/database/mysql",
+  "slug": "/knowledge/database/mysql/",
+  "permalink": "/docs/knowledge/database/mysql/",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mysql",
+      "permalink": "/docs/tags/mysql"
+    },
+    {
+      "label": "database",
+      "permalink": "/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "mysql-note",
+    "title": "MySql笔记",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "mysql",
+      "database"
+    ],
+    "keywords": [
+      "mysql",
+      "database"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "Mysql",
+    "permalink": "/docs/category/mysql"
+  },
+  "next": {
+    "title": "mysql替换函数replace",
+    "permalink": "/docs/knowledge/database/mysql/mysql-replace-function"
+  }
+}

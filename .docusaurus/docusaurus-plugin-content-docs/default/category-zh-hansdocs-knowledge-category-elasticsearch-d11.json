@@ -1,0 +1,15 @@
+{
+  "title": "Elasticsearch",
+  "slug": "/category/elasticsearch",
+  "permalink": "/zh-Hans/docs/category/elasticsearch",
+  "navigation": {
+    "previous": {
+      "title": "Redis笔记",
+      "permalink": "/zh-Hans/docs/knowledge/database/redis/"
+    },
+    "next": {
+      "title": "elasticsearch笔记",
+      "permalink": "/zh-Hans/docs/knowledge/database/elasticsearch/"
+    }
+  }
+}

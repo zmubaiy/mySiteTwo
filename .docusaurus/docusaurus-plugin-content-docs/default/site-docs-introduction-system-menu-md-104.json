@@ -1,0 +1,26 @@
+{
+  "unversionedId": "introduction/system/menu",
+  "id": "introduction/system/menu",
+  "title": "菜单管理",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/introduction/system/menu.md",
+  "sourceDirName": "introduction/system",
+  "slug": "/introduction/system/menu",
+  "permalink": "/docs/introduction/system/menu",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "系统管理",
+    "permalink": "/docs/category/系统管理"
+  },
+  "next": {
+    "title": "角色管理",
+    "permalink": "/docs/introduction/system/role"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "2、基础",
+  "slug": "/category/2基础",
+  "permalink": "/docs/category/2基础",
+  "navigation": {
+    "previous": {
+      "title": "Java开发工具安装",
+      "permalink": "/docs/knowledge/backEnd/Java/安装/java-tools-install"
+    },
+    "next": {
+      "title": "Java基础",
+      "permalink": "/docs/knowledge/backEnd/Java/基础/java-base"
+    }
+  }
+}

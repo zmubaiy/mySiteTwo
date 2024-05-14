@@ -1,0 +1,15 @@
+{
+  "title": "2、基础",
+  "slug": "/category/2基础-1",
+  "permalink": "/docs/category/2基础-1",
+  "navigation": {
+    "previous": {
+      "title": "pycharm安装",
+      "permalink": "/docs/knowledge/backEnd/python/安装/python-pycharm"
+    },
+    "next": {
+      "title": "python基础",
+      "permalink": "/docs/knowledge/backEnd/python/基础/python-base"
+    }
+  }
+}

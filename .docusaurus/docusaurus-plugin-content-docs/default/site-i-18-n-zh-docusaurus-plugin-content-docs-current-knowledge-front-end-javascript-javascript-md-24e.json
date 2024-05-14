@@ -1,0 +1,38 @@
+{
+  "unversionedId": "knowledge/frontEnd/javascript/javascript",
+  "id": "knowledge/frontEnd/javascript/javascript",
+  "title": "JavaScript",
+  "description": "一、什么是JavaScript?",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/knowledge/frontEnd/javascript/javascript.md",
+  "sourceDirName": "knowledge/frontEnd/javascript",
+  "slug": "/knowledge/frontEnd/javascript/",
+  "permalink": "/zh/docs/knowledge/frontEnd/javascript/",
+  "draft": false,
+  "tags": [
+    {
+      "label": "JavaScript",
+      "permalink": "/zh/docs/tags/java-script"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "javascript",
+    "title": "JavaScript",
+    "date": "2020-12-30T00:00:00.000Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "keywords": [
+      "JavaScript"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "html",
+    "permalink": "/zh/docs/knowledge/frontEnd/html/"
+  },
+  "next": {
+    "title": "NodeJs",
+    "permalink": "/zh/docs/category/nodejs"
+  }
+}

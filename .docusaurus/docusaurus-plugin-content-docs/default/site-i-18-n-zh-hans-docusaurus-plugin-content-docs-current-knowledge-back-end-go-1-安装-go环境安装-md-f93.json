@@ -1,0 +1,38 @@
+{
+  "unversionedId": "knowledge/backEnd/go/安装/Go环境安装",
+  "id": "knowledge/backEnd/go/安装/Go环境安装",
+  "title": "Go环境安装",
+  "description": "安装 Go",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/backEnd/go/1.安装/Go环境安装.md",
+  "sourceDirName": "knowledge/backEnd/go/1.安装",
+  "slug": "/knowledge/backEnd/go/安装/Go环境安装",
+  "permalink": "/zh-Hans/docs/knowledge/backEnd/go/安装/Go环境安装",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/zh-Hans/docs/tags/go"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Go环境安装",
+    "tags": [
+      "go"
+    ],
+    "keywords": [
+      "go"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "1、安装",
+    "permalink": "/zh-Hans/docs/category/1安装-2"
+  },
+  "next": {
+    "title": "2、开发",
+    "permalink": "/zh-Hans/docs/category/2开发"
+  }
+}

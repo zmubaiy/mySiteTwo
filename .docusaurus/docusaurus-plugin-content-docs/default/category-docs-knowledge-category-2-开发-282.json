@@ -1,0 +1,15 @@
+{
+  "title": "2、开发",
+  "slug": "/category/2开发",
+  "permalink": "/docs/category/2开发",
+  "navigation": {
+    "previous": {
+      "title": "Go环境安装",
+      "permalink": "/docs/knowledge/backEnd/go/安装/Go环境安装"
+    },
+    "next": {
+      "title": "Go语言之json使用",
+      "permalink": "/docs/knowledge/backEnd/go/基础/go-json-usage"
+    }
+  }
+}

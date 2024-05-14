@@ -1,0 +1,14 @@
+{
+  "label": "elasticsearch",
+  "permalink": "/docs/tags/elasticsearch",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/database/elasticsearch/elasticsearch-note",
+      "title": "elasticsearch笔记",
+      "description": "Elasticsearch Clients | Elastic 官方文档",
+      "permalink": "/docs/knowledge/database/elasticsearch/"
+    }
+  ]
+}

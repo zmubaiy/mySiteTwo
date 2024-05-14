@@ -1,0 +1,46 @@
+{
+  "unversionedId": "knowledge/database/mongo/mongodb-note",
+  "id": "knowledge/database/mongo/mongodb-note",
+  "title": "MongoDB笔记",
+  "description": "安装",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/knowledge/database/mongo/index.md",
+  "sourceDirName": "knowledge/database/mongo",
+  "slug": "/knowledge/database/mongo/",
+  "permalink": "/zh/docs/knowledge/database/mongo/",
+  "draft": false,
+  "tags": [
+    {
+      "label": "mongodb",
+      "permalink": "/zh/docs/tags/mongodb"
+    },
+    {
+      "label": "database",
+      "permalink": "/zh/docs/tags/database"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "mongodb-note",
+    "title": "MongoDB笔记",
+    "date": "2021-06-20T00:00:00.000Z",
+    "tags": [
+      "mongodb",
+      "database"
+    ],
+    "keywords": [
+      "mongodb",
+      "database"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "MongoDB",
+    "permalink": "/zh/docs/category/mongodb"
+  },
+  "next": {
+    "title": "Redis",
+    "permalink": "/zh/docs/category/redis"
+  }
+}

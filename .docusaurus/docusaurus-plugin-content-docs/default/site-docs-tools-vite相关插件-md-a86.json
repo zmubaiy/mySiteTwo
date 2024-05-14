@@ -1,0 +1,43 @@
+{
+  "unversionedId": "tools/vite-plugin",
+  "id": "tools/vite-plugin",
+  "title": "Vite相关插件",
+  "description": "记录下日常使用 Vite 的一些相关插件。",
+  "source": "@site/docs/tools/Vite相关插件.md",
+  "sourceDirName": "tools",
+  "slug": "/vite-plugin",
+  "permalink": "/docs/vite-plugin",
+  "draft": false,
+  "tags": [
+    {
+      "label": "vue",
+      "permalink": "/docs/tags/vue"
+    },
+    {
+      "label": "vite",
+      "permalink": "/docs/tags/vite"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "vite-plugin",
+    "slug": "/vite-plugin",
+    "title": "Vite相关插件",
+    "date": "2022-04-10T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "vue",
+      "vite"
+    ],
+    "toc_max_heading_level": 2
+  },
+  "sidebar": "tools",
+  "previous": {
+    "title": "IDEA基本配置",
+    "permalink": "/docs/idea-config"
+  },
+  "next": {
+    "title": "Jetbrains系列产品激活方法",
+    "permalink": "/docs/jetbrains-product-activation-method"
+  }
+}

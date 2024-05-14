@@ -1,0 +1,15 @@
+{
+  "title": "k8s",
+  "slug": "/category/k8s",
+  "permalink": "/zh/docs/category/k8s",
+  "navigation": {
+    "previous": {
+      "title": "vim",
+      "permalink": "/zh/docs/knowledge/operation/linux/linux-vim"
+    },
+    "next": {
+      "title": "k8s笔记",
+      "permalink": "/zh/docs/knowledge/operation/k8s/k8s-note"
+    }
+  }
+}

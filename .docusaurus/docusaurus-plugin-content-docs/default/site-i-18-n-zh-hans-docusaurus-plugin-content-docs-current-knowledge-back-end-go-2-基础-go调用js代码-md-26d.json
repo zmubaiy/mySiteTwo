@@ -1,0 +1,45 @@
+{
+  "unversionedId": "knowledge/backEnd/go/基础/go-call-js",
+  "id": "knowledge/backEnd/go/基础/go-call-js",
+  "title": "Go调用js代码",
+  "description": "运行 js 代码",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/backEnd/go/2.基础/Go调用js代码.md",
+  "sourceDirName": "knowledge/backEnd/go/2.基础",
+  "slug": "/knowledge/backEnd/go/基础/go-call-js",
+  "permalink": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-call-js",
+  "draft": false,
+  "tags": [
+    {
+      "label": "go",
+      "permalink": "/zh-Hans/docs/tags/go"
+    },
+    {
+      "label": "javascript",
+      "permalink": "/zh-Hans/docs/tags/javascript"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "go-call-js",
+    "title": "Go调用js代码",
+    "date": "2022-05-22T00:00:00.000Z",
+    "authors": "kuizuo",
+    "tags": [
+      "go",
+      "javascript"
+    ],
+    "keywords": [
+      "go",
+      "javascript"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "Go发送http请求",
+    "permalink": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-send-http-request"
+  },
+  "next": {
+    "title": "Go并发",
+    "permalink": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-concurrent"
+  }
+}

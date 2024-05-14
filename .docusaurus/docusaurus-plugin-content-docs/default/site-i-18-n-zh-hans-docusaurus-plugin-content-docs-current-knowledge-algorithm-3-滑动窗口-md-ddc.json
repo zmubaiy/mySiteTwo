@@ -1,0 +1,46 @@
+{
+  "unversionedId": "knowledge/algorithm/sliding-window",
+  "id": "knowledge/algorithm/sliding-window",
+  "title": "滑动窗口",
+  "description": "无重复字符的最长子串",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/algorithm/3.滑动窗口.md",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm/sliding-window",
+  "permalink": "/zh-Hans/docs/algorithm/sliding-window",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/zh-Hans/docs/tags/algorithm"
+    },
+    {
+      "label": "sliding-window",
+      "permalink": "/zh-Hans/docs/tags/sliding-window"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "sliding-window",
+    "slug": "/algorithm/sliding-window",
+    "title": "滑动窗口",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm",
+      "sliding-window"
+    ],
+    "keywords": [
+      "algorithm",
+      "sliding-window"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "三数之和",
+    "permalink": "/zh-Hans/docs/algorithm/three-sum"
+  },
+  "next": {
+    "title": "双指针",
+    "permalink": "/zh-Hans/docs/algorithm/double-pointer"
+  }
+}

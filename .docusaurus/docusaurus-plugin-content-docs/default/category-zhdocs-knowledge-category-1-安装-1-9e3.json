@@ -1,0 +1,15 @@
+{
+  "title": "1、安装",
+  "slug": "/category/1安装-1",
+  "permalink": "/zh/docs/category/1安装-1",
+  "navigation": {
+    "previous": {
+      "title": "Python",
+      "permalink": "/zh/docs/category/python"
+    },
+    "next": {
+      "title": "python解释器安装",
+      "permalink": "/zh/docs/knowledge/backEnd/python/安装/python"
+    }
+  }
+}

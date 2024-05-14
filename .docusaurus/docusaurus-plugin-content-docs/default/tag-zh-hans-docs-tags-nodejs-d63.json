@@ -1,0 +1,20 @@
+{
+  "label": "nodejs",
+  "permalink": "/zh-Hans/docs/tags/nodejs",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "knowledge/frontEnd/nodejs/nodejs",
+      "title": "nodejs",
+      "description": "NodeJS 是什么？",
+      "permalink": "/zh-Hans/docs/knowledge/frontEnd/nodejs/"
+    },
+    {
+      "id": "knowledge/frontEnd/nodejs/nodejs-nvm",
+      "title": "nvm",
+      "description": "1、nvm介绍",
+      "permalink": "/zh-Hans/docs/knowledge/frontEnd/nodejs/nodejs-nvm"
+    }
+  ]
+}

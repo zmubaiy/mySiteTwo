@@ -1,0 +1,914 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "knowledge": [
+      {
+        "type": "link",
+        "label": "技术笔记",
+        "href": "/zh-Hans/docs/knowledge",
+        "docId": "knowledge/introduction"
+      },
+      {
+        "label": "1、运维",
+        "type": "category",
+        "items": [
+          {
+            "label": "Linux",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "Linux笔记",
+                "href": "/zh-Hans/docs/knowledge/operation/linux/linux-note",
+                "docId": "knowledge/operation/linux/linux-note"
+              },
+              {
+                "type": "link",
+                "label": "Linux常用命令",
+                "href": "/zh-Hans/docs/knowledge/operation/linux/linux-command",
+                "docId": "knowledge/operation/linux/linux-command"
+              },
+              {
+                "type": "link",
+                "label": "vim",
+                "href": "/zh-Hans/docs/knowledge/operation/linux/linux-vim",
+                "docId": "knowledge/operation/linux/linux-vim"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/linux"
+          },
+          {
+            "label": "k8s",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "k8s笔记",
+                "href": "/zh-Hans/docs/knowledge/operation/k8s/k8s-note",
+                "docId": "knowledge/operation/k8s/k8s-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/k8s"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/1运维"
+      },
+      {
+        "label": "2、前端",
+        "type": "category",
+        "items": [
+          {
+            "label": "html",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "html",
+                "href": "/zh-Hans/docs/knowledge/frontEnd/html/",
+                "docId": "knowledge/frontEnd/html/html"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/html"
+          },
+          {
+            "type": "link",
+            "label": "JavaScript",
+            "href": "/zh-Hans/docs/knowledge/frontEnd/javascript/",
+            "docId": "knowledge/frontEnd/javascript/javascript"
+          },
+          {
+            "label": "NodeJs",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "nodejs",
+                "href": "/zh-Hans/docs/knowledge/frontEnd/nodejs/",
+                "docId": "knowledge/frontEnd/nodejs/nodejs"
+              },
+              {
+                "type": "link",
+                "label": "nvm",
+                "href": "/zh-Hans/docs/knowledge/frontEnd/nodejs/nodejs-nvm",
+                "docId": "knowledge/frontEnd/nodejs/nodejs-nvm"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/nodejs"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/2前端"
+      },
+      {
+        "label": "3、后端",
+        "type": "category",
+        "items": [
+          {
+            "label": "Java",
+            "type": "category",
+            "items": [
+              {
+                "label": "1、安装",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "JDK安装",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-jdk",
+                    "docId": "knowledge/backEnd/Java/安装/java-jdk"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Java开发工具安装",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-tools-install",
+                    "docId": "knowledge/backEnd/Java/安装/java-tools-install"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/1安装"
+              },
+              {
+                "label": "2、基础",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Java基础",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/Java/基础/java-base",
+                    "docId": "knowledge/backEnd/Java/基础/java-base"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/2基础"
+              },
+              {
+                "label": "3、进阶",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "java反射",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/Java/进阶/java-reflect",
+                    "docId": "knowledge/backEnd/Java/进阶/java-reflect"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Java代理",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/Java/进阶/java-proxy",
+                    "docId": "knowledge/backEnd/Java/进阶/java-proxy"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/3进阶"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/java"
+          },
+          {
+            "label": "Python",
+            "type": "category",
+            "items": [
+              {
+                "label": "1、安装",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "python解释器安装",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/python/安装/python",
+                    "docId": "knowledge/backEnd/python/安装/python"
+                  },
+                  {
+                    "type": "link",
+                    "label": "pycharm安装",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/python/安装/python-pycharm",
+                    "docId": "knowledge/backEnd/python/安装/python-pycharm"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/1安装-1"
+              },
+              {
+                "label": "2、基础",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "python基础",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/python/基础/python-base",
+                    "docId": "knowledge/backEnd/python/基础/python-base"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/2基础-1"
+              },
+              {
+                "label": "3、进阶",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "python-flask",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/python/进阶/python-flask",
+                    "docId": "knowledge/backEnd/python/进阶/python-flask"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/3进阶-1"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/python"
+          },
+          {
+            "label": "Go",
+            "type": "category",
+            "items": [
+              {
+                "label": "1、安装",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Go环境安装",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/安装/Go环境安装",
+                    "docId": "knowledge/backEnd/go/安装/Go环境安装"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/1安装-2"
+              },
+              {
+                "label": "2、开发",
+                "type": "category",
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Go语言之json使用",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-json-usage",
+                    "docId": "knowledge/backEnd/go/基础/go-json-usage"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Go发送http请求",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-send-http-request",
+                    "docId": "knowledge/backEnd/go/基础/go-send-http-request"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Go调用js代码",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-call-js",
+                    "docId": "knowledge/backEnd/go/基础/go-call-js"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Go并发",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/基础/go-concurrent",
+                    "docId": "knowledge/backEnd/go/基础/go-concurrent"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Gin框架初体验",
+                    "href": "/zh-Hans/docs/knowledge/backEnd/go/基础/try-gin-framework",
+                    "docId": "knowledge/backEnd/go/基础/try-gin-framework"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true,
+                "href": "/zh-Hans/docs/category/2开发"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/go"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/3后端"
+      },
+      {
+        "label": "4、数据库",
+        "type": "category",
+        "items": [
+          {
+            "label": "Mysql",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "MySql笔记",
+                "href": "/zh-Hans/docs/knowledge/database/mysql/",
+                "docId": "knowledge/database/mysql/mysql-note"
+              },
+              {
+                "type": "link",
+                "label": "mysql替换函数replace",
+                "href": "/zh-Hans/docs/knowledge/database/mysql/mysql-replace-function",
+                "docId": "knowledge/database/mysql/mysql-replace-function"
+              },
+              {
+                "type": "link",
+                "label": "mysql模糊查询like优化",
+                "href": "/zh-Hans/docs/knowledge/database/mysql/mysql-like-optimization",
+                "docId": "knowledge/database/mysql/mysql-like-optimization"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/mysql"
+          },
+          {
+            "label": "MongoDB",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "MongoDB笔记",
+                "href": "/zh-Hans/docs/knowledge/database/mongo/",
+                "docId": "knowledge/database/mongo/mongodb-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/mongodb"
+          },
+          {
+            "label": "Redis",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "Redis笔记",
+                "href": "/zh-Hans/docs/knowledge/database/redis/",
+                "docId": "knowledge/database/redis/redis-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/redis"
+          },
+          {
+            "label": "Elasticsearch",
+            "type": "category",
+            "items": [
+              {
+                "type": "link",
+                "label": "elasticsearch笔记",
+                "href": "/zh-Hans/docs/knowledge/database/elasticsearch/",
+                "docId": "knowledge/database/elasticsearch/elasticsearch-note"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true,
+            "href": "/zh-Hans/docs/category/elasticsearch"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/4数据库"
+      },
+      {
+        "label": "5、算法",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "两数之和",
+            "href": "/zh-Hans/docs/algorithm/two-sum",
+            "docId": "knowledge/algorithm/two-sum"
+          },
+          {
+            "type": "link",
+            "label": "三数之和",
+            "href": "/zh-Hans/docs/algorithm/three-sum",
+            "docId": "knowledge/algorithm/three-sum"
+          },
+          {
+            "type": "link",
+            "label": "滑动窗口",
+            "href": "/zh-Hans/docs/algorithm/sliding-window",
+            "docId": "knowledge/algorithm/sliding-window"
+          },
+          {
+            "type": "link",
+            "label": "双指针",
+            "href": "/zh-Hans/docs/algorithm/double-pointer",
+            "docId": "knowledge/algorithm/double-pointer"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/algorithm"
+      },
+      {
+        "label": "6、其它",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "查看端口占用及结束进程",
+            "href": "/zh-Hans/docs/knowledge/other/look-up-port-and-kill-process",
+            "docId": "knowledge/other/look-up-port-and-kill-process"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/6其它"
+      }
+    ],
+    "introduction": [
+      {
+        "type": "link",
+        "label": "xxx管理系统",
+        "href": "/zh-Hans/docs/introduction",
+        "docId": "introduction/introduction"
+      },
+      {
+        "label": "用户管理",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "用户列表",
+            "href": "/zh-Hans/docs/introduction/user/userList",
+            "docId": "introduction/user/userList"
+          },
+          {
+            "type": "link",
+            "label": "实名管理",
+            "href": "/zh-Hans/docs/introduction/user/authentication",
+            "docId": "introduction/user/authentication"
+          },
+          {
+            "type": "link",
+            "label": "地址管理",
+            "href": "/zh-Hans/docs/introduction/user/address",
+            "docId": "introduction/user/address"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/用户管理"
+      },
+      {
+        "label": "内容管理",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "广告管理",
+            "href": "/zh-Hans/docs/introduction/content/advertiseList",
+            "docId": "introduction/content/advertiseList"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/内容管理"
+      },
+      {
+        "label": "系统管理",
+        "type": "category",
+        "items": [
+          {
+            "type": "link",
+            "label": "菜单管理",
+            "href": "/zh-Hans/docs/introduction/system/menu",
+            "docId": "introduction/system/menu"
+          },
+          {
+            "type": "link",
+            "label": "角色管理",
+            "href": "/zh-Hans/docs/introduction/system/role",
+            "docId": "introduction/system/role"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/zh-Hans/docs/category/系统管理"
+      }
+    ],
+    "tools": [
+      {
+        "type": "link",
+        "label": "开发工具推荐",
+        "href": "/zh-Hans/docs/tools",
+        "docId": "tools/introduction"
+      },
+      {
+        "type": "link",
+        "label": "Everything快速搜索本地文件",
+        "href": "/zh-Hans/docs/everything-quick-search-local-files",
+        "docId": "tools/everything-quick-search-local-files"
+      },
+      {
+        "type": "link",
+        "label": "Wappalyzer识别网站上的技术",
+        "href": "/zh-Hans/docs/wappalyzer-recognize-technology",
+        "docId": "tools/wappalyzer-recognize-technology"
+      },
+      {
+        "type": "link",
+        "label": "Windows自定义右键菜单",
+        "href": "/zh-Hans/docs/windows-custom-right-click-menu",
+        "docId": "tools/windows-custom-right-click-menu"
+      },
+      {
+        "type": "link",
+        "label": "VScode相关配置",
+        "href": "/zh-Hans/docs/vscode-config",
+        "docId": "tools/vscode-config"
+      },
+      {
+        "type": "link",
+        "label": "IDEA基本配置",
+        "href": "/zh-Hans/docs/idea-config",
+        "docId": "tools/idea-config"
+      },
+      {
+        "type": "link",
+        "label": "Vite相关插件",
+        "href": "/zh-Hans/docs/vite-plugin",
+        "docId": "tools/vite-plugin"
+      },
+      {
+        "type": "link",
+        "label": "Jetbrains系列产品激活方法",
+        "href": "/zh-Hans/docs/jetbrains-product-activation-method",
+        "docId": "tools/jetbrains-product-activation-method"
+      }
+    ],
+    "about": [
+      {
+        "type": "link",
+        "label": "关于本站",
+        "href": "/zh-Hans/docs/about",
+        "docId": "about/about"
+      },
+      {
+        "type": "link",
+        "label": "联系方式",
+        "href": "/zh-Hans/docs/contact",
+        "docId": "about/contact"
+      }
+    ]
+  },
+  "docs": {
+    "about/about": {
+      "id": "about/about",
+      "title": "关于本站",
+      "description": "本站定位",
+      "sidebar": "about"
+    },
+    "about/contact": {
+      "id": "about/contact",
+      "title": "联系方式",
+      "description": "123456789",
+      "sidebar": "about"
+    },
+    "introduction/content/advertiseList": {
+      "id": "introduction/content/advertiseList",
+      "title": "广告管理",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "introduction"
+    },
+    "introduction/introduction": {
+      "id": "introduction/introduction",
+      "title": "xxx管理系统",
+      "description": "xxx管理系统为了更方便管理员工。",
+      "sidebar": "introduction"
+    },
+    "introduction/system/menu": {
+      "id": "introduction/system/menu",
+      "title": "菜单管理",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "introduction"
+    },
+    "introduction/system/role": {
+      "id": "introduction/system/role",
+      "title": "角色管理",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "introduction"
+    },
+    "introduction/user/address": {
+      "id": "introduction/user/address",
+      "title": "地址管理",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "introduction"
+    },
+    "introduction/user/authentication": {
+      "id": "introduction/user/authentication",
+      "title": "实名管理",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "introduction"
+    },
+    "introduction/user/userList": {
+      "id": "introduction/user/userList",
+      "title": "用户列表",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "introduction"
+    },
+    "knowledge/algorithm/algorithm-introduction": {
+      "id": "knowledge/algorithm/algorithm-introduction",
+      "title": "5、算法",
+      "description": "整理常用算法, 大部分题型来源于 力扣网",
+      "sidebar": "knowledge"
+    },
+    "knowledge/algorithm/double-pointer": {
+      "id": "knowledge/algorithm/double-pointer",
+      "title": "双指针",
+      "description": "以下是有关双指针相关算法的题目与题解。",
+      "sidebar": "knowledge"
+    },
+    "knowledge/algorithm/hash-table": {
+      "id": "knowledge/algorithm/hash-table",
+      "title": "哈希表",
+      "description": "快乐数"
+    },
+    "knowledge/algorithm/sliding-window": {
+      "id": "knowledge/algorithm/sliding-window",
+      "title": "滑动窗口",
+      "description": "无重复字符的最长子串",
+      "sidebar": "knowledge"
+    },
+    "knowledge/algorithm/three-sum": {
+      "id": "knowledge/algorithm/three-sum",
+      "title": "三数之和",
+      "description": "排序+双指针",
+      "sidebar": "knowledge"
+    },
+    "knowledge/algorithm/two-sum": {
+      "id": "knowledge/algorithm/two-sum",
+      "title": "两数之和",
+      "description": "暴力枚举",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/安装/Go环境安装": {
+      "id": "knowledge/backEnd/go/安装/Go环境安装",
+      "title": "Go环境安装",
+      "description": "安装 Go",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/基础/go-call-js": {
+      "id": "knowledge/backEnd/go/基础/go-call-js",
+      "title": "Go调用js代码",
+      "description": "运行 js 代码",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/基础/go-concurrent": {
+      "id": "knowledge/backEnd/go/基础/go-concurrent",
+      "title": "Go并发",
+      "description": "Go 语言的并发是基于 goroutine 的，goroutine 类似于线程，但并非线程。可以将 goroutine 理解为一种虚拟线程。Go 语言运行时会参与调度 goroutine，并将 goroutine 合理地分配到每个 CPU 中，最大限度地使用 CPU 性能。开启一个 goroutine 的消耗非常小（大约 2KB 的内存），你可以轻松创建数百万个goroutine。",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/基础/go-json-usage": {
+      "id": "knowledge/backEnd/go/基础/go-json-usage",
+      "title": "Go语言之json使用",
+      "description": "Go 语言中，官方提供了一个专门的包 encoding/json",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/基础/go-send-http-request": {
+      "id": "knowledge/backEnd/go/基础/go-send-http-request",
+      "title": "Go发送http请求",
+      "description": "Get 请求",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/go/基础/try-gin-framework": {
+      "id": "knowledge/backEnd/go/基础/try-gin-framework",
+      "title": "Gin框架初体验",
+      "description": "安装 Gin",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/Java/安装/java-jdk": {
+      "id": "knowledge/backEnd/Java/安装/java-jdk",
+      "title": "JDK安装",
+      "description": "1、下载JDK",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/Java/安装/java-tools-install": {
+      "id": "knowledge/backEnd/Java/安装/java-tools-install",
+      "title": "Java开发工具安装",
+      "description": "IntelliJ IDEA",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/Java/基础/java-base": {
+      "id": "knowledge/backEnd/Java/基础/java-base",
+      "title": "Java基础",
+      "description": "前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/Java/进阶/java-proxy": {
+      "id": "knowledge/backEnd/Java/进阶/java-proxy",
+      "title": "Java代理",
+      "description": "前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/Java/进阶/java-reflect": {
+      "id": "knowledge/backEnd/Java/进阶/java-reflect",
+      "title": "java反射",
+      "description": "什么是反射？",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/python/安装/python": {
+      "id": "knowledge/backEnd/python/安装/python",
+      "title": "python解释器安装",
+      "description": "",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/python/安装/python-pycharm": {
+      "id": "knowledge/backEnd/python/安装/python-pycharm",
+      "title": "pycharm安装",
+      "description": "破解",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/python/基础/python-base": {
+      "id": "knowledge/backEnd/python/基础/python-base",
+      "title": "python基础",
+      "description": "1、",
+      "sidebar": "knowledge"
+    },
+    "knowledge/backEnd/python/进阶/python-flask": {
+      "id": "knowledge/backEnd/python/进阶/python-flask",
+      "title": "python-flask",
+      "description": "Flask是一个使用Python编写的轻量级Web应用框架。它由Armin Ronacher创建，其设计哲学是简单易用，使得开发者可以快速地构建一个基础的Web应用。Flask提供了必要的工具和功能，让开发者能够扩展其功能来适应各种Web应用的需求。",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/elasticsearch/elasticsearch-note": {
+      "id": "knowledge/database/elasticsearch/elasticsearch-note",
+      "title": "elasticsearch笔记",
+      "description": "Elasticsearch Clients | Elastic 官方文档",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/mongo/mongodb-note": {
+      "id": "knowledge/database/mongo/mongodb-note",
+      "title": "MongoDB笔记",
+      "description": "安装",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/mysql/mysql-like-optimization": {
+      "id": "knowledge/database/mysql/mysql-like-optimization",
+      "title": "mysql模糊查询like优化",
+      "description": "1、前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/mysql/mysql-note": {
+      "id": "knowledge/database/mysql/mysql-note",
+      "title": "MySql笔记",
+      "description": "1、前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/mysql/mysql-replace-function": {
+      "id": "knowledge/database/mysql/mysql-replace-function",
+      "title": "mysql替换函数replace",
+      "description": "1、前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/database/redis/redis-note": {
+      "id": "knowledge/database/redis/redis-note",
+      "title": "Redis笔记",
+      "description": "redis 中文官方网站",
+      "sidebar": "knowledge"
+    },
+    "knowledge/frontEnd/html/html": {
+      "id": "knowledge/frontEnd/html/html",
+      "title": "html",
+      "description": "什么是HTML？",
+      "sidebar": "knowledge"
+    },
+    "knowledge/frontEnd/javascript/javascript": {
+      "id": "knowledge/frontEnd/javascript/javascript",
+      "title": "JavaScript",
+      "description": "一、什么是JavaScript?",
+      "sidebar": "knowledge"
+    },
+    "knowledge/frontEnd/nodejs/nodejs": {
+      "id": "knowledge/frontEnd/nodejs/nodejs",
+      "title": "nodejs",
+      "description": "NodeJS 是什么？",
+      "sidebar": "knowledge"
+    },
+    "knowledge/frontEnd/nodejs/nodejs-nvm": {
+      "id": "knowledge/frontEnd/nodejs/nodejs-nvm",
+      "title": "nvm",
+      "description": "1、nvm介绍",
+      "sidebar": "knowledge"
+    },
+    "knowledge/introduction": {
+      "id": "knowledge/introduction",
+      "title": "技术笔记",
+      "description": "本页面为个人学习中所涉及相关技术栈的笔记汇总，包含但不限于",
+      "sidebar": "knowledge"
+    },
+    "knowledge/operation/k8s/k8s-note": {
+      "id": "knowledge/operation/k8s/k8s-note",
+      "title": "k8s笔记",
+      "description": "1、前言",
+      "sidebar": "knowledge"
+    },
+    "knowledge/operation/linux/linux-command": {
+      "id": "knowledge/operation/linux/linux-command",
+      "title": "Linux常用命令",
+      "description": "1. ls：列出当前目录中的文件和子目录",
+      "sidebar": "knowledge"
+    },
+    "knowledge/operation/linux/linux-note": {
+      "id": "knowledge/operation/linux/linux-note",
+      "title": "Linux笔记",
+      "description": "1、linux介绍",
+      "sidebar": "knowledge"
+    },
+    "knowledge/operation/linux/linux-vim": {
+      "id": "knowledge/operation/linux/linux-vim",
+      "title": "vim",
+      "description": "1 vi和vim简介",
+      "sidebar": "knowledge"
+    },
+    "knowledge/other/look-up-port-and-kill-process": {
+      "id": "knowledge/other/look-up-port-and-kill-process",
+      "title": "查看端口占用及结束进程",
+      "description": "Linux",
+      "sidebar": "knowledge"
+    },
+    "tools/everything-quick-search-local-files": {
+      "id": "tools/everything-quick-search-local-files",
+      "title": "Everything快速搜索本地文件",
+      "description": "everything-Everything",
+      "sidebar": "tools"
+    },
+    "tools/idea-config": {
+      "id": "tools/idea-config",
+      "title": "IDEA基本配置",
+      "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+      "sidebar": "tools"
+    },
+    "tools/introduction": {
+      "id": "tools/introduction",
+      "title": "开发工具推荐",
+      "description": "本页为个人开发中使用到的一些开发工具。",
+      "sidebar": "tools"
+    },
+    "tools/jetbrains-product-activation-method": {
+      "id": "tools/jetbrains-product-activation-method",
+      "title": "Jetbrains系列产品激活方法",
+      "description": "jetbrains",
+      "sidebar": "tools"
+    },
+    "tools/vite-plugin": {
+      "id": "tools/vite-plugin",
+      "title": "Vite相关插件",
+      "description": "记录下日常使用 Vite 的一些相关插件。",
+      "sidebar": "tools"
+    },
+    "tools/vscode-config": {
+      "id": "tools/vscode-config",
+      "title": "VScode相关配置",
+      "description": "关于 vscode 介绍和安装啥的不在这浪费口舌，上号就完事了！",
+      "sidebar": "tools"
+    },
+    "tools/wappalyzer-recognize-technology": {
+      "id": "tools/wappalyzer-recognize-technology",
+      "title": "Wappalyzer识别网站上的技术",
+      "description": "你是否还在为不知道心仪的网站所采用的技术栈而烦恼吗，如果是，那么这款 Chrome 插件值得你拥有",
+      "sidebar": "tools"
+    },
+    "tools/windows-custom-right-click-menu": {
+      "id": "tools/windows-custom-right-click-menu",
+      "title": "Windows自定义右键菜单",
+      "description": "为什么写这篇文章呢，因为我每次都要更改鼠标右键菜单都要去百度相关的，然后在照着一步一步操作。甚至我在写这篇文章的时候也百度了相关的内容。到时候忘记了直接看我自己写的就完事了（可能写了之后就记得住了。）",
+      "sidebar": "tools"
+    },
+    "tools/windows-terminal-beautify": {
+      "id": "tools/windows-terminal-beautify",
+      "title": "Windows Terminal美化",
+      "description": "image-20210527065050479"
+    }
+  }
+}

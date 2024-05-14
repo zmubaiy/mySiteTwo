@@ -1,0 +1,20 @@
+{
+  "label": "idea",
+  "permalink": "/zh-Hans/docs/tags/idea",
+  "allTagsPath": "/zh-Hans/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "tools/idea-config",
+      "title": "IDEA基本配置",
+      "description": "准备系统的学习一遍 java（主要是后端与安卓），所以就免不了使用业界好评最高的 IDE 工具——IDEA。",
+      "permalink": "/zh-Hans/docs/idea-config"
+    },
+    {
+      "id": "knowledge/backEnd/Java/安装/java-tools-install",
+      "title": "Java开发工具安装",
+      "description": "IntelliJ IDEA",
+      "permalink": "/zh-Hans/docs/knowledge/backEnd/Java/安装/java-tools-install"
+    }
+  ]
+}

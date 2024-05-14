@@ -1,0 +1,21 @@
+{
+  "title": "4、数据库",
+  "keywords": [
+    "MySql",
+    "MongoDB",
+    "Redis",
+    "Elasticsearch"
+  ],
+  "slug": "/category/4数据库",
+  "permalink": "/zh/docs/category/4数据库",
+  "navigation": {
+    "previous": {
+      "title": "Gin框架初体验",
+      "permalink": "/zh/docs/knowledge/backEnd/go/基础/try-gin-framework"
+    },
+    "next": {
+      "title": "Mysql",
+      "permalink": "/zh/docs/category/mysql"
+    }
+  }
+}

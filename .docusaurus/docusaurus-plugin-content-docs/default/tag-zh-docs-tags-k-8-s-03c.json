@@ -1,0 +1,14 @@
+{
+  "label": "k8s",
+  "permalink": "/zh/docs/tags/k-8-s",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/operation/k8s/k8s-note",
+      "title": "k8s笔记",
+      "description": "1、前言",
+      "permalink": "/zh/docs/knowledge/operation/k8s/k8s-note"
+    }
+  ]
+}

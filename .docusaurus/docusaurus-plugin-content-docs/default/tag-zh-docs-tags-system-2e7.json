@@ -1,0 +1,14 @@
+{
+  "label": "system",
+  "permalink": "/zh/docs/tags/system",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/other/look-up-port-and-kill-process",
+      "title": "查看端口占用及结束进程",
+      "description": "Linux",
+      "permalink": "/zh/docs/knowledge/other/look-up-port-and-kill-process"
+    }
+  ]
+}

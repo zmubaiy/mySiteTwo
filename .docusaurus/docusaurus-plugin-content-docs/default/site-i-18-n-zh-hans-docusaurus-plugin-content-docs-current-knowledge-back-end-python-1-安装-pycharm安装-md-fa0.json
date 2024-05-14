@@ -1,0 +1,43 @@
+{
+  "unversionedId": "knowledge/backEnd/python/安装/python-pycharm",
+  "id": "knowledge/backEnd/python/安装/python-pycharm",
+  "title": "pycharm安装",
+  "description": "破解",
+  "source": "@site/i18n/zh-Hans/docusaurus-plugin-content-docs/current/knowledge/backEnd/python/1.安装/pycharm安装.md",
+  "sourceDirName": "knowledge/backEnd/python/1.安装",
+  "slug": "/knowledge/backEnd/python/安装/python-pycharm",
+  "permalink": "/zh-Hans/docs/knowledge/backEnd/python/安装/python-pycharm",
+  "draft": false,
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/zh-Hans/docs/tags/python"
+    },
+    {
+      "label": "pycharm",
+      "permalink": "/zh-Hans/docs/tags/pycharm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "python-pycharm",
+    "title": "pycharm安装",
+    "tags": [
+      "python",
+      "pycharm"
+    ],
+    "keywords": [
+      "python",
+      "pycharm"
+    ]
+  },
+  "sidebar": "knowledge",
+  "previous": {
+    "title": "python解释器安装",
+    "permalink": "/zh-Hans/docs/knowledge/backEnd/python/安装/python"
+  },
+  "next": {
+    "title": "2、基础",
+    "permalink": "/zh-Hans/docs/category/2基础-1"
+  }
+}

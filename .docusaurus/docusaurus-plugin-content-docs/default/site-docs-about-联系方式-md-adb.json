@@ -1,0 +1,23 @@
+{
+  "unversionedId": "about/contact",
+  "id": "about/contact",
+  "title": "Contact information",
+  "description": "123456789",
+  "source": "@site/docs/about/联系方式.md",
+  "sourceDirName": "about",
+  "slug": "/contact",
+  "permalink": "/docs/contact",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "contact",
+    "slug": "/contact",
+    "title": "Contact information"
+  },
+  "sidebar": "about",
+  "previous": {
+    "title": "About this site",
+    "permalink": "/docs/about"
+  }
+}

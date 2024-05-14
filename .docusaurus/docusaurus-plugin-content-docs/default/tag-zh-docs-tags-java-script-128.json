@@ -1,0 +1,14 @@
+{
+  "label": "JavaScript",
+  "permalink": "/zh/docs/tags/java-script",
+  "allTagsPath": "/zh/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "knowledge/frontEnd/javascript/javascript",
+      "title": "JavaScript",
+      "description": "一、什么是JavaScript?",
+      "permalink": "/zh/docs/knowledge/frontEnd/javascript/"
+    }
+  ]
+}

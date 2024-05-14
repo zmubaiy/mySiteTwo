@@ -1,0 +1,37 @@
+{
+  "unversionedId": "knowledge/algorithm/hash-table",
+  "id": "knowledge/algorithm/hash-table",
+  "title": "哈希表",
+  "description": "快乐数",
+  "source": "@site/docs/knowledge/algorithm/5.哈希表.md",
+  "sourceDirName": "knowledge/algorithm",
+  "slug": "/algorithm/hash-table",
+  "permalink": "/docs/algorithm/hash-table",
+  "draft": false,
+  "tags": [
+    {
+      "label": "algorithm",
+      "permalink": "/docs/tags/algorithm"
+    },
+    {
+      "label": "hash-table",
+      "permalink": "/docs/tags/hash-table"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "hash-table",
+    "slug": "/algorithm/hash-table",
+    "title": "哈希表",
+    "authors": "kuizuo",
+    "tags": [
+      "algorithm",
+      "hash-table"
+    ],
+    "keywords": [
+      "algorithm",
+      "hash-table"
+    ]
+  }
+}

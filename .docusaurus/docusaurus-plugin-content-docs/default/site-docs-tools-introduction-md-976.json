@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tools/introduction",
+  "id": "tools/introduction",
+  "title": "开发工具推荐",
+  "description": "本页为个人开发中使用到的一些开发工具。",
+  "source": "@site/docs/tools/introduction.md",
+  "sourceDirName": "tools",
+  "slug": "/tools",
+  "permalink": "/docs/tools",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introduction",
+    "slug": "/tools",
+    "title": "开发工具推荐"
+  },
+  "sidebar": "tools",
+  "next": {
+    "title": "Everything快速搜索本地文件",
+    "permalink": "/docs/everything-quick-search-local-files"
+  }
+}

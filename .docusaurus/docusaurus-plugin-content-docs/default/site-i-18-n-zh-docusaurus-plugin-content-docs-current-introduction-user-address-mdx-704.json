@@ -1,0 +1,26 @@
+{
+  "unversionedId": "introduction/user/address",
+  "id": "introduction/user/address",
+  "title": "地址管理",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/introduction/user/address.mdx",
+  "sourceDirName": "introduction/user",
+  "slug": "/introduction/user/address",
+  "permalink": "/zh/docs/introduction/user/address",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "实名管理",
+    "permalink": "/zh/docs/introduction/user/authentication"
+  },
+  "next": {
+    "title": "内容管理",
+    "permalink": "/zh/docs/category/内容管理"
+  }
+}
